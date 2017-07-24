@@ -1,0 +1,22 @@
+{
+  "name": "leetcode",
+  "version": "4.2.0",
+  "description": "leetcode problem solutions/tests",
+  "main": "index.js",
+  "directories": {
+    "test": "test",
+    "solutions": "solutions"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.7.0"
+  },
+  "scripts": {
+    "test": "tape test/**/*.js"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "dominic brazeel",
+  "license": "ISC"
+}
